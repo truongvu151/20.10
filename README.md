@@ -1,6 +1,6 @@
 # 20.10
-hi
-thay đổi thông tin ở "config.js"
+# hi
+# thay đổi thông tin ở "config.js"
 const CONFIG = {
     introTitle: 'Hello everyone!',
     introDesc: '20/10',
